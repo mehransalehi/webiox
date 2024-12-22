@@ -21,13 +21,16 @@
                 <div class="col-md-6 ">
                   <div class="detail-box">
                     <h1>
-                      Crypto <br>
-                      Currency
+                      Websites That Work Wonders
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta
-                      aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis
-                      delectus repellat modi impedit sequi.
+                      Your website is your digital storefront, and we ensure it’s open 24/7 with stunning designs and
+                      seamless functionality. At <span class="text-success fw-bold">WEBIOX</span>, we craft <span
+                        class="text-primary fw-bold">websites</span> using cutting-edge technologies like <span
+                        class="text-primary fw-bold">Next.js</span>, <span class="text-primary fw-bold">Nuxt</span>, and
+                      <span class="text-primary fw-bold">Laravel</span> to deliver fast, responsive, and scalable
+                      solutions. Whether you’re starting from scratch or upgrading an existing site, we’ve got you
+                      covered with robust frameworks and modern aesthetics.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -38,7 +41,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="/images/slider-img.png" alt="">
+                    <img src="/images/website.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -50,13 +53,17 @@
                 <div class="col-md-6 ">
                   <div class="detail-box">
                     <h1>
-                      Crypto <br>
-                      Currency
+                      Apps That Engage and Inspire
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta
-                      aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis
-                      delectus repellat modi impedit sequi.
+                      In today’s mobile-first world, having an <span class="text-primary fw-bold">app</span> isn’t just
+                      an option—it’s a necessity. We design sleek, user-friendly <span
+                        class="text-primary fw-bold">apps</span> with frameworks like <span
+                        class="text-primary fw-bold">React Native</span>, <span class="text-primary fw-bold">Vue</span>,
+                      and <span class="text-primary fw-bold">Node.js</span> for both iOS and Android platforms. Whether
+                      it’s an e-commerce <span class="text-primary fw-bold">app</span>, a service platform, or something
+                      entirely unique, <span class="text-success fw-bold">WEBIOX</span> ensures your <span
+                        class="text-primary fw-bold">app</span> looks great and performs flawlessly.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -67,7 +74,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="/images/slider-img.png" alt="">
+                    <img src="/images/mobile.png" alt="">
                   </div>
                 </div>
               </div>
@@ -79,13 +86,14 @@
                 <div class="col-md-6 ">
                   <div class="detail-box">
                     <h1>
-                      Crypto <br>
-                      Currency
+                      Tailored Solutions for Unique Needs
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta
-                      aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis
-                      delectus repellat modi impedit sequi.
+                      No two businesses are the same, and your solutions shouldn’t be either. <span
+                        class="text-success fw-bold">WEBIOX</span> specializes in custom robot development, tailored
+                      automation tools, and unique web-based applications. Utilizing the power of <span
+                        class="text-primary fw-bold">Node.js</span>, <span class="text-primary fw-bold">Python</span>,
+                      and modern APIs, we create software that perfectly aligns with your vision and goals.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -96,7 +104,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="/images/slider-img.png" alt="">
+                    <img src="/images/code.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -108,13 +116,17 @@
                 <div class="col-md-6 ">
                   <div class="detail-box">
                     <h1>
-                      Crypto <br>
-                      Currency
+                      Reliable Systems, Seamless Operations
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta
-                      aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis
-                      delectus repellat modi impedit sequi.
+                      Behind every successful business is a strong backbone of operations. Our <span
+                        class="text-primary fw-bold">DevOps</span> and system administration services ensure your
+                      servers, cloud systems, and deployment pipelines run smoothly. We use powerful tools like <span
+                        class="text-primary fw-bold">Docker</span>, <span
+                        class="text-primary fw-bold">Kubernetes</span>, and <span
+                        class="text-primary fw-bold">AWS</span> to automate processes, manage infrastructure, and
+                      deliver reliable, scalable solutions. Trust <span class="text-success fw-bold">WEBIOX</span> to
+                      streamline your operations.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -125,7 +137,39 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="/images/slider-img.png" alt="">
+                    <img src="/images/server.svg" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </swiper-slide>
+          <swiper-slide>
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6 ">
+                  <div class="detail-box">
+                    <h1>
+                      Smarter Bots for Smarter Trading
+                    </h1>
+                    <p>
+                      Take your crypto game to the next level with intelligent bots built by <span
+                        class="text-success fw-bold">WEBIOX</span>. From data tracking to automated trading, we develop
+                      bots using <span class="text-primary fw-bold">Node.js</span>, <span
+                        class="text-primary fw-bold">Python</span>, and <span class="text-primary fw-bold">machine
+                        learning algorithms</span> that adapt to market trends. Whether you’re a trader or an investor,
+                      our solutions help you stay ahead of the curve in the dynamic world of <span
+                        class="text-primary fw-bold">cryptocurrency</span>.
+                    </p>
+                    <div class="btn-box">
+                      <a href="" class="btn1">
+                        Read More
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="/images/crypto.png" alt="">
                   </div>
                 </div>
               </div>
