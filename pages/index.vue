@@ -195,22 +195,21 @@
           <div class="heading_container heading_center">
             <h2>Our <span>Services</span></h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration
+              Empowering Your Business with Expert IT Solutions
             </p>
           </div>
           <div class="row">
             <div class="col-md-4">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/s1.png" alt="" />
+                  <img src="/images/web-app.svg" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Currency Wallet</h5>
+                  <h5>Web application<br>development</h5>
                   <p>
-                    fact that a reader will be distracted by the readable
-                    content of a page when looking at its layout. The point of
-                    using
+                    our reliable workforce build your web applications with cutting-edge technologies to scale your
+                    business
+                    and customer needs.
                   </p>
                   <a href=""> Read More </a>
                 </div>
@@ -219,14 +218,13 @@
             <div class="col-md-4">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/s2.png" alt="" />
+                  <img src="/images/mobile-app.svg" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Security Storage</h5>
+                  <h5>Mobile application<br>development</h5>
                   <p>
-                    fact that a reader will be distracted by the readable
-                    content of a page when looking at its layout. The point of
-                    using
+                    Our highly experience fullstack and mobile app developers turn your ideas from scratch into high
+                    performance applications in various platforms including Android and IOS
                   </p>
                   <a href=""> Read More </a>
                 </div>
@@ -235,14 +233,60 @@
             <div class="col-md-4">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/s3.png" alt="" />
+                  <img src="/images/custom-code.svg" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Expert Support</h5>
+                  <h5>Custom software<br>development</h5>
                   <p>
-                    fact that a reader will be distracted by the readable
-                    content of a page when looking at its layout. The point of
-                    using
+                    Exceptional custom software development for crafting your business ideas into software products and
+                    make
+                    dreams come true.
+                  </p>
+                  <a href=""> Read More </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="box">
+                <div class="img-box">
+                  <img src="/images/network.svg" alt="" />
+                </div>
+                <div class="detail-box">
+                  <h5>DevOps & system<br>administration</h5>
+                  <p>
+                    Make your business development process more productive and agile by implementing our DevOps
+                    solutions.
+                  </p>
+                  <a href=""> Read More </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="box">
+                <div class="img-box">
+                  <img src="/images/server-s.svg" alt="" />
+                </div>
+                <div class="detail-box">
+                  <h5>Network administration<br>and Security</h5>
+                  <p>
+                    Exceptional custom software development for crafting your business ideas into software products and
+                    make
+                    dreams come true.
+                  </p>
+                  <a href=""> Read More </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="box">
+                <div class="img-box">
+                  <img src="/images/cms.svg" alt="" />
+                </div>
+                <div class="detail-box">
+                  <h5>CMS development<br>and Web design</h5>
+                  <p>
+                    We provide all conceivable WordPress services. That includes creating custom themes & plugins and
+                    enhancing the performance of the platform.
                   </p>
                   <a href=""> Read More </a>
                 </div>
@@ -265,8 +309,7 @@
         <div class="heading_container heading_center">
           <h2>About <span>Us</span></h2>
           <p>
-            Magni quod blanditiis non minus sed aut voluptatum illum quisquam
-            aspernatur ullam vel beatae rerum ipsum voluptatibus
+            More Than Just a Company: Our Purpose and Commitment
           </p>
         </div>
         <div class="row">
@@ -277,20 +320,26 @@
           </div>
           <div class="col-md-6">
             <div class="detail-box">
-              <h3>We Are Finexo</h3>
+              <h3>We Are Webiox</h3>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour, or randomised words which don't look even
-                slightly believable. If you are going to use a passage of Lorem
-                Ipsum, you need to be sure there isn't anything embarrassing
-                hidden in the middle of text. All
+                Webiox is a group of professionals in information technology field resident in europe working to
+                deliver
+                efficient and creative business solutions focusing on various technologies including:<br>
+                <ul>
+                  <li>Web application development</li>
+                  <li>Mobile application development</li>
+                  <li>Custom software development</li>
+                  <li>DevOps & system administration</li>
+                  <li>CMS development and Web design</li>
+                  <li>Network administration and Security</li>
+                </ul>
               </p>
               <p>
-                Molestiae odio earum non qui cumque provident voluptates,
-                repellendus exercitationem, possimus at iste corrupti officiis
-                unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam
-                ab omnis quasi expedita.
+                The world needs remote and cost efficient web and software solutions more than ever. Covid hasn’t only
+                changed the way we live but the way we work, adaptability is the key here.
+                If you’re looking to adapt swiftly by not missing opportunities around you then let us help and manifest
+                the
+                great achievements of your dreams right before your eyes!
               </p>
               <a href=""> Read More </a>
             </div>
@@ -309,55 +358,47 @@
           <h2>Why Choose <span>Us</span></h2>
         </div>
         <div class="why_container d-flex justify ">
-          <div class="box">
+          <div class="box col-md-3">
             <div class="img-box">
-              <img src="/images/w1.png" alt="" />
+              <img src="/images/years.svg" alt="" />
             </div>
             <div class="detail-box">
-              <h5>Expert Management</h5>
+              <h5>10+ | years of experience</h5>
               <p>
-                Incidunt odit rerum tenetur alias architecto asperiores omnis
-                cumque doloribus aperiam numquam! Eligendi corrupti, molestias
-                laborum dolores quod nisi vitae voluptate ipsa?
+                Benefit from our 10+ years of experience. We put our expertise to work, focusing on your specific needs and goals.
               </p>
             </div>
           </div>
-          <div class="box">
+          <div class="box col-md-3">
             <div class="img-box">
-              <img src="/images/w2.png" alt="" />
+              <img src="/images/achivment.svg" alt="" />
             </div>
             <div class="detail-box">
-              <h5>Secure Investment</h5>
+              <h5>800+ | projects delivered</h5>
               <p>
-                Incidunt odit rerum tenetur alias architecto asperiores omnis
-                cumque doloribus aperiam numquam! Eligendi corrupti, molestias
-                laborum dolores quod nisi vitae voluptate ipsa?
+                We bring the experience of 800+ delivered projects, ensuring reliable solutions for your needs.
               </p>
             </div>
           </div>
-          <div class="box">
+          <div class="box col-md-3">
             <div class="img-box">
-              <img src="/images/w3.png" alt="" />
+              <img src="/images/earth.svg" alt="" />
             </div>
             <div class="detail-box">
-              <h5>Instant Trading</h5>
+              <h5>50+ | countries served</h5>
               <p>
-                Incidunt odit rerum tenetur alias architecto asperiores omnis
-                cumque doloribus aperiam numquam! Eligendi corrupti, molestias
-                laborum dolores quod nisi vitae voluptate ipsa?
+                We're proud to have served clients in 50+ countries, building a global network and making a positive impact across borders.
               </p>
             </div>
           </div>
-          <div class="box">
+          <div class="box col-md-3">
             <div class="img-box">
-              <img src="/images/w4.png" alt="" />
+              <img src="/images/handshake.svg" alt="" />
             </div>
             <div class="detail-box">
-              <h5>Happy Customers</h5>
+              <h5>98% | Client satisfaction</h5>
               <p>
-                Incidunt odit rerum tenetur alias architecto asperiores omnis
-                cumque doloribus aperiam numquam! Eligendi corrupti, molestias
-                laborum dolores quod nisi vitae voluptate ipsa?
+                With a 98% client satisfaction rate, our results speak for themselves. We're committed to providing solutions that not only meet but surpass your goals.
               </p>
             </div>
           </div>
