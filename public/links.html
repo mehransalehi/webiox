@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBIOX LISTS</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sulphur+Point:wght@700&display=swap');
+
+        * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+
+        .roboto-thin {
+            font-family: "Roboto", sans-serif;
+            font-weight: 100;
+            font-style: normal;
+        }
+
+        .roboto-light {
+            font-family: "Roboto", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+        }
+
+        .roboto-regular {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .roboto-medium {
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+        }
+
+        .roboto-bold {
+            font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+        .btn {
+            color: white;
+            text-transform: uppercase;
+            text-decoration: none;
+            border: 2px solid white;
+            padding: 10px 20px;
+            font-size: 17px;
+            font-weight: bold;
+            background: transparent;
+            position: relative;
+            transition: all 1s;
+            overflow: hidden;
+            margin-top:30px;
+            margin-bottom: 20px;
+        }
+
+        .btn:hover {
+            color: white;
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            height: 100%;
+            width: 0%;
+            top: 0;
+            left: -40px;
+            transform: skewX(45deg);
+            background-color: #481E14;
+            z-index: -1;
+            transition: all 1s;
+        }
+
+        .btn:hover::before {
+            width: 160%;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: radial-gradient(#F2613F,#9B3922);
+        }
+
+        main {
+            width: 550px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color:white;
+        }
+        .linklist{
+            width: 80%;
+            height:80px;
+            border:1px solid red;
+            border-radius: 50px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            background-color: white;
+            text-decoration: none;
+            color:#0C0C0C;
+            padding:5px;
+            margin-bottom: 10px;
+        }
+
+        .linklist img{
+            margin-right:10px;
+        }
+        .linklist span{
+            transition: 0.5s;
+        }
+        .linklist:hover span{
+            transform: translateX(20px);
+        }
+    </style>
+</head>
+
+<body>
+    <main class="roboto-regular">
+        <h1 class="roboto-medium">HI! My Name Is Mehran</h1>
+        <p style="margin-top:10px">Feel free to contact me for order and consult about website design</p>
+        <a class="btn" href="https://www.instagram.com/_webiox/">
+            Subscribe
+        </a>
+        <hr style="width:80%"/>
+        <h2 class="roboto-medium" style="margin:30px">My favorite links</h2>
+
+        <a href="https://github.com/mehransalehi/" class="linklist">
+            <img src="./images/github.png" alt="github">
+            <span>My Github</span>
+        </a>
+        <a href="https://codepen.io/_webiox" class="linklist">
+            <img src="./images/codepen.png" alt="codepen">
+            <span>Source Code</span>
+        </a>
+        <a href="https://www.instagram.com/_webiox/" class="linklist">
+            <img src="./images/insta.png" alt="insta">
+            <span>Instagram</span>
+        </a>
+        <a href="https://www.youtube.com/@_webiox" class="linklist">
+            <img src="./images/youtube.png" alt="youtube">
+            <span>Youtube Channel</span>
+        </a>
+        <a href="https://www.webiox.net/" class="linklist">
+            <img src="./images/web.png" alt="web">
+            <span>Webiox Website</span>
+        </a>
+    </main>
+</body>
+
+</html>
