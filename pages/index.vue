@@ -325,14 +325,14 @@
                 Webiox is a group of professionals in information technology field resident in europe working to
                 deliver
                 efficient and creative business solutions focusing on various technologies including:<br>
-                <ul>
-                  <li>Web application development</li>
-                  <li>Mobile application development</li>
-                  <li>Custom software development</li>
-                  <li>DevOps & system administration</li>
-                  <li>CMS development and Web design</li>
-                  <li>Network administration and Security</li>
-                </ul>
+              <ul>
+                <li>Web application development</li>
+                <li>Mobile application development</li>
+                <li>Custom software development</li>
+                <li>DevOps & system administration</li>
+                <li>CMS development and Web design</li>
+                <li>Network administration and Security</li>
+              </ul>
               </p>
               <p>
                 The world needs remote and cost efficient web and software solutions more than ever. Covid hasn’t only
@@ -365,7 +365,9 @@
             <div class="detail-box">
               <h5>10+ | years of experience</h5>
               <p>
-                Benefit from our 10+ years of experience. We put our expertise to work, focusing on your specific needs and goals.
+                Benefit from our 10+ years of experience. We put our expertise to work, focusing on your specific needs
+                and
+                goals.
               </p>
             </div>
           </div>
@@ -387,7 +389,9 @@
             <div class="detail-box">
               <h5>50+ | countries served</h5>
               <p>
-                We're proud to have served clients in 50+ countries, building a global network and making a positive impact across borders.
+                We're proud to have served clients in 50+ countries, building a global network and making a positive
+                impact
+                across borders.
               </p>
             </div>
           </div>
@@ -398,7 +402,8 @@
             <div class="detail-box">
               <h5>98% | Client satisfaction</h5>
               <p>
-                With a 98% client satisfaction rate, our results speak for themselves. We're committed to providing solutions that not only meet but surpass your goals.
+                With a 98% client satisfaction rate, our results speak for themselves. We're committed to providing
+                solutions that not only meet but surpass your goals.
               </p>
             </div>
           </div>
@@ -423,21 +428,15 @@
             <div class="col-lg-3 col-sm-6">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/team-1.jpg" class="img1" alt="" />
+                  <img src="/images/team/saied-salehi.jpg" class="img1" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Joseph Brown</h5>
-                  <p>Marketing Head</p>
+                  <h5>Saeid Salehi</h5>
+                  <p>Linux System Administrator</p>
                 </div>
 
                 <div class="social_box">
-                  <a href="#">
-                    <i class="fa-brands fa-github"></i>
-                  </a>
-                  <a href="#">
-                    <i class="fa-brands fa-square-instagram"></i>
-                  </a>
-                  <a href="#">
+                  <a href="linkedin.com/in/saeid-salehi/">
                     <i class="fa-brands fa-linkedin"></i>
                   </a>
                 </div>
@@ -446,21 +445,21 @@
             <div class="col-lg-3 col-sm-6">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/team-2.jpg" class="img1" alt="" />
+                  <img src="/images/team/mehran-salehi.png" class="img1" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Nancy White</h5>
-                  <p>Marketing Head</p>
+                  <h5>Mehran Salehi</h5>
+                  <p>Full Stack Developer</p>
                 </div>
 
                 <div class="social_box">
-                  <a href="#">
+                  <a href="https://github.com/mehransalehi">
                     <i class="fa-brands fa-github"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.instagram.com/_webiox/">
                     <i class="fa-brands fa-square-instagram"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/mehran--salehi/">
                     <i class="fa-brands fa-linkedin"></i>
                   </a>
                 </div>
@@ -469,21 +468,15 @@
             <div class="col-lg-3 col-sm-6">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/team-3.jpg" class="img1" alt="" />
+                  <img src="/images/team/sina-salehi.jpg" class="img1" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Earl Martinez</h5>
-                  <p>Marketing Head</p>
+                  <h5>Sina Salehi</h5>
+                  <p>Project Managment</p>
                 </div>
 
                 <div class="social_box">
-                  <a href="#">
-                    <i class="fa-brands fa-github"></i>
-                  </a>
-                  <a href="#">
-                    <i class="fa-brands fa-square-instagram"></i>
-                  </a>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/sina-salehi-461ba2174/">
                     <i class="fa-brands fa-linkedin"></i>
                   </a>
                 </div>
@@ -492,11 +485,49 @@
             <div class="col-lg-3 col-sm-6">
               <div class="box">
                 <div class="img-box">
-                  <img src="/images/team-4.jpg" class="img1" alt="" />
+                  <img src="/images/team/pooya-azarpour.jpg" class="img1" alt="" />
                 </div>
                 <div class="detail-box">
-                  <h5>Josephine Allard</h5>
-                  <p>Marketing Head</p>
+                  <h5>Pooya Azarpour</h5>
+                  <p>Software Engineer</p>
+                </div>
+                <div class="social_box">
+                  <a href="https://github.com/poyaz">
+                    <i class="fa-brands fa-github"></i>
+                  </a>
+                  <a href="https://stackoverflow.com/users/6759368/pooya">
+                    <i class="fa-brands fa-stack-overflow"></i>
+                  </a>
+                  <a href="https://linkedin.com/in/pooya-azarpour">
+                    <i class="fa-brands fa-linkedin"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="box">
+                <div class="img-box">
+                  <img src="/images/team/mohammad-serafat.jpg" class="img1" alt="" />
+                </div>
+                <div class="detail-box">
+                  <h5>Mohammad Sherafat</h5>
+                  <p>Software Engineer</p>
+                </div>
+                <div class="social_box">
+                  <a href="https://www.linkedin.com/in/mohammad-sherafat/">
+                    <i class="fa-brands fa-linkedin"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+              <div class="box">
+                <div class="img-box">
+                  <img src="/images/team/naser-yousefi.jpg" class="img1" alt="" />
+                </div>
+                <div class="detail-box">
+                  <h5>Naser Yousefi</h5>
+                  <p>Full Stack Developer</p>
                 </div>
                 <div class="social_box">
                   <a href="#">
@@ -530,20 +561,22 @@
           <swiper-slide>
             <div class="box">
               <div class="img-box">
-                <img src="/images/client1.jpg" alt="" class="box-img" />
+                <img src="/images/clients/client1.jpg" alt="" class="box-img" />
               </div>
               <div class="detail-box">
                 <div class="client_id">
                   <div class="client_info">
-                    <h6>LusDen</h6>
-                    <p>magna aliqua. Ut</p>
+                    <h6>Rashid K. Italy</h6>
+                    <p>CTO - PrismaSofts</p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis
+                  The best and quality work done by the <span class="text-primary fw-bold">WEBIOX</span>, super dedicated, awesome communications and
+                  professional
+                  approach. They have real technical skills, and they have the ability to find the right and best way to
+                  get
+                  your work done.
                 </p>
               </div>
             </div>
@@ -551,20 +584,22 @@
           <swiper-slide>
             <div class="box">
               <div class="img-box">
-                <img src="/images/client1.jpg" alt="" class="box-img" />
+                <img src="/images/clients/client2.jpg" alt="" class="box-img" />
               </div>
               <div class="detail-box">
                 <div class="client_id">
                   <div class="client_info">
-                    <h6>LusDen</h6>
-                    <p>magna aliqua. Ut</p>
+                    <h6>Jan D. Germany</h6>
+                    <p>CEO - Venomsupply</p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis
+                  I appreciate the results, Amin from <span class="text-primary fw-bold">WEBIOX</span> did a great job and supported all aspects of project,
+                  their
+                  solution design was something i've been really looking for and i'm amazed on the deliverables.Thank
+                  you so
+                  far and this association would be continued :)
                 </p>
               </div>
             </div>
@@ -572,41 +607,20 @@
           <swiper-slide>
             <div class="box">
               <div class="img-box">
-                <img src="/images/client1.jpg" alt="" class="box-img" />
+                <img src="/images/clients/client3.jpg" alt="" class="box-img" />
               </div>
               <div class="detail-box">
                 <div class="client_id">
                   <div class="client_info">
-                    <h6>LusDen</h6>
-                    <p>magna aliqua. Ut</p>
+                    <h6>Karolis T. Germany</h6>
+                    <p>CEO – IProyal</p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis
-                </p>
-              </div>
-            </div>
-          </swiper-slide>
-          <swiper-slide>
-            <div class="box">
-              <div class="img-box">
-                <img src="/images/client1.jpg" alt="" class="box-img" />
-              </div>
-              <div class="detail-box">
-                <div class="client_id">
-                  <div class="client_info">
-                    <h6>LusDen</h6>
-                    <p>magna aliqua. Ut</p>
-                  </div>
-                  <i class="fa fa-quote-left" aria-hidden="true"></i>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis
+                  We been working with <span class="text-primary fw-bold">WEBIOX</span> on providing several business solutions for our clients and quite
+                  satisfied
+                  on the results so far.
                 </p>
               </div>
             </div>
